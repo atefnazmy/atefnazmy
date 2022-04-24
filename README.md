@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Atef Nazmy
-- 👀 I’m interested in Machine Learning, New Technologies
+- 👋 Hi, I’m Atef
+- 👀 I’m interested in Machine Learning, New Technologies.
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on more Open Source Projects.
 - 📫 How to reach me ...
 
 <!---
